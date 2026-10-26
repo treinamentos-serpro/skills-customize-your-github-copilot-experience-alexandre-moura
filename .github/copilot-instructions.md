@@ -20,3 +20,4 @@ Ao gerar conteúdo para este projeto:
 
 - **Foco no aprendizado**: Todo conteúdo deve ser elaborado com objetivos de aprendizado claros e níveis de dificuldade apropriados
 - **Amigável ao aluno**: Usar linguagem clara e encorajadora que motive os alunos
+
