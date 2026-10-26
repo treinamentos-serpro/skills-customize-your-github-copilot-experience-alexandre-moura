@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automated-testing-pytest",
+      "title": "Testes Automatizados com pytest",
+      "description": "Escrevendo e executando testes automatizados com pytest para validar funções e classes Python",
+      "path": "assignments/automated-testing-pytest",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
